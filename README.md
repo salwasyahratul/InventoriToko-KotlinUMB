@@ -29,3 +29,46 @@ Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan p
    ```bash
    git clone https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB.git
    cd inventoriToko-kotlin-UMB
+
+1. **Aplikasi Dibuka**
+   - Langsung menampilkan halaman Login.
+
+2. **Login**
+   - User mengisi Email dan Password
+   - Validasi:
+     - Format email harus valid
+     - Password minimal 6 karakter
+   - Jika login sukses:
+     - Arahkan ke halaman MainActivity
+     - Tampilkan: `Selamat Datang, [Nama User]`
+   - Jika gagal:
+     - Tampilkan pesan error
+   - Tersedia tombol untuk berpindah ke halaman Register
+
+3. **Register**
+   - User mengisi:
+     - Nama
+     - Email
+     - Password
+
+4. **List Barang**
+menampilkan List Barang
+
+5. **keranjang**
+   menambahkan produk ke keranjang
+6.**Pembayaran Sukses**
+Pembayaran Sukses
+  
+
+---
+## 📱Tampilan Login 
+![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/login.png?raw=true)
+## 📲Tampilan Register
+![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/register.png)?raw=true)
+## List Barang
+![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/List.png)?raw=true)
+## Keranjang
+![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/keranjang.png?raw=true)
+## ✅Pembayaran Sukses
+![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/pembayaran%20sukses.png?raw=true)
+## 🛠️ Tools & Teknologi
