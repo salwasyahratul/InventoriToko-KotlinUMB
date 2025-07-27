@@ -85,7 +85,7 @@ Aplikasi Inventori Toko berbasis Kotlin (Android) yang dikembangkan untuk memenu
 ## 🛒Keranjang
 ![alt text](https://github.com/salwasyahratul/InventoriToko-KotlinUMB/blob/master/Screenshot%20(966).png?raw=true)
 ## ✅Pembayaran Sukses
-![alt text](?raw=true)
+![alt text](https://github.com/salwasyahratul/InventoriToko-KotlinUMB/blob/master/Screenshot%20(967).png?raw=true)
 
 
 ## 📦 Cara Menjalankan
