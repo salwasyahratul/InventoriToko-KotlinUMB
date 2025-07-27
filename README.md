@@ -2,8 +2,8 @@
 
 Aplikasi Inventori Toko berbasis Kotlin (Android) yang dikembangkan untuk memenuhi tugas/skripsi pada program studi Sistem Informasi, Universitas Muhammadiyah Banten. Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan penjualan, dan laporan inventori secara sederhana namun efektif.
 
-## Nama : Renaldi Muhammad Fau
-## Nim  : 220220027
+## Nama : Salwa syahratul aeni
+## Nim  : 220220031
 ## Sistem Informasi
 ## Universitas Muhammadiyah Banten 
 
