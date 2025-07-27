@@ -28,6 +28,7 @@
         android:layout_height="wrap_content"
         android:hint="Password"
         android:inputType="textPassword"
+        android:textColor="@android:color/holo_blue_dark"
         android:layout_marginTop="16dp"/>
 
     <Button
