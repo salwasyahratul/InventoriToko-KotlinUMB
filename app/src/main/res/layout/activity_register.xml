@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:padding="24dp"
     android:orientation="vertical"
-    android:background="#B68BC34A"
+    android:background="#673AB7"
     android:gravity="center">
 
     <EditText
@@ -40,7 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Register"
-        android:background="#B68BC34A"
+        android:background="#00BCD4"
         android:layout_marginTop="24dp"/>
 
     <TextView
