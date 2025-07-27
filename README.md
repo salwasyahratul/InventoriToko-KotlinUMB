@@ -39,3 +39,64 @@ Aplikasi Inventori Toko berbasis Kotlin (Android) yang dikembangkan untuk memenu
 * Desain UI: XML Layout
 * Arsitektur: MVVM (jika digunakan)
 
+## 📱 Cara Instalasi
+1. Clone Repository
+
+* 
+  cd inventoriToko-Kotlin-UMB
+  
+2. Aplikasi Dibuka
+   
+* Langsung menampilkan halaman Login.
+  
+3. Login
+
+* User mengisi Email dan Password
+  * Validasi:
+      * Format email harus valid
+      * Password minimal 6 karakter
+  * Jika login sukses:
+      * Arahkan ke halaman MainActivity
+      * Tampilkan: Selamat Datang, [Nama User]
+  * Jika gagal:
+      * Tampilkan pesan error
+      * Tersedia tombol untuk berpindah ke halaman Register
+        
+ 4. Register
+     * User mengisi 
+       * Nama
+       * Email
+       * Password
+
+ 5. List Barang menampilkan List Barang
+
+ 6. keranjang menambahkan produk ke keranjang
+ 
+ 7. Pembayaran Sukses Pembayaran Sukses
+
+
+---
+## 📱Tampilan Login 
+![alt text](https://github.com/renld22/InventoriToko-Kotlin-UMB/blob/master/gambar/loginnn1.png?raw=true)
+## 📲Tampilan Register
+![alt text](https://github.com/renld22/InventoriToko-Kotlin-UMB/blob/master/gambar/REGISTERRR.png?raw=true)
+## 📝List Barang
+![alt text](https://github.com/renld22/InventoriToko-Kotlin-UMB/blob/master/gambar/LIST%20BARANGG.png?raw=true)
+## 🛒Keranjang
+![alt text](https://github.com/renld22/InventoriToko-Kotlin-UMB/blob/master/gambar/KERANJANG.png?raw=true)
+## ✅Pembayaran Sukses
+![alt text](https://github.com/renld22/InventoriToko-Kotlin-UMB/blob/master/gambar/PEMBAYARAN.png?raw=true)
+
+
+## 📦 Cara Menjalankan
+
+1. Clone atau download project ini
+2. Buka dengan **Android Studio**
+3. Jalankan di emulator atau perangkat fisik
+4. Lakukan proses register, lalu login
+
+---
+
+## 📄 License
+
+This project is intended for educational purposes and open for learning or improvement.
