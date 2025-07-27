@@ -5,37 +5,42 @@
     android:layout_height="match_parent"
     android:padding="24dp"
     android:orientation="vertical"
+    android:background="#B68BC34A"
     android:gravity="center">
 
     <EditText
         android:id="@+id/etName"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
+        android:background="#B6FFFFFF"
         android:hint="Nama"
-        android:inputType="textPersonName"/>
+        android:inputType="textPersonName" />
 
     <EditText
         android:id="@+id/etEmail"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="51dp"
+        android:layout_marginTop="16dp"
+        android:background="#B6FFFFFF"
         android:hint="Email"
-        android:inputType="textEmailAddress"
-        android:layout_marginTop="16dp"/>
+        android:inputType="textEmailAddress" />
 
     <EditText
         android:id="@+id/etPassword"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:background="#B6FFFFFF"
         android:hint="Password"
         android:inputType="textPassword"
-        android:textColor="@android:color/holo_blue_dark"
-        android:layout_marginTop="16dp"/>
+        android:textColor="@android:color/holo_blue_dark" />
 
     <Button
         android:id="@+id/btnRegister"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Register"
+        android:background="#B68BC34A"
         android:layout_marginTop="24dp"/>
 
     <TextView
